@@ -1,8 +1,6 @@
 ### Hi there 👋  
 I'm **Saeka**, a passionate Systems Engineer with 6 years of experience, currently diving deep into web development.
 
-![Profile Views](https://komarev.com/ghpvc/?username=SaikaMai&color=blueviolet)  
-![GitHub Followers](https://img.shields.io/github/followers/SaikaMai?style=social)  
 ![Languages](https://img.shields.io/github/languages/count/SaikaMai?style=flat&color=brightgreen)
 
 ---
@@ -16,6 +14,11 @@ I'm **Saeka**, a passionate Systems Engineer with 6 years of experience, current
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)  
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
+  ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
+
+- **Databases & ORMs**  
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)  
+  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat)
 
 - **Tools & Platforms**  
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
@@ -64,8 +67,8 @@ I contribute to a volunteer organization that helps children in Japan interact w
 ---
 
 ### 🔗 Get in Touch  
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/saeka-k-6678a128a)  
+- 📫 Reach me at: [hdr23.nknkn@gmail.com](mailto:hdr23.nknkn@gmail.com)
 
 ---
 
