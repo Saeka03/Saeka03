@@ -1,8 +1,6 @@
 ### Hi there 👋  
 I'm **Saeka**, a passionate Systems Engineer with 6 years of experience, currently diving deep into web development.
 
-![Languages](https://img.shields.io/github/languages/count/SaikaMai?style=flat&color=brightgreen)
-
 ---
 
 ### 🛠 Tech Stack  
