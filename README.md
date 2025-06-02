@@ -1,5 +1,5 @@
 ### Hi there 👋  
-I'm **Saeka**, a passionate Systems Engineer with 6 years of experience, currently diving deep into web development.
+I'm **Saeka**, a passionate web developer dedicated to creating clean, user-friendly websites and applications.
 
 ---
 
@@ -26,17 +26,32 @@ I'm **Saeka**, a passionate Systems Engineer with 6 years of experience, current
 ---
 
 ### 🌟 Summary  
-With a background in **System Engineering**, I bring six years of experience leading requirement definitions, system designs, and testing. Known for solving service requests with efficiency and building strong client relationships, I'm now exploring the world of **web development** and **automation**.
+Experienced Web Developer skilled in WordPress, PHP, HTML, SCSS, and JavaScript. Proven track record in improving
+site performance, reducing development time, and enhancing user experience. Expert at leading cross-functional
+teams and paying attention to detail to deliver scalable web applications.
 
 ---
 
 ### 🧑‍💻 Experience  
-**Systems Engineer | Docomo Datacom (400 employees)**  
-*April 2017 – March 2023 | Tokyo, Japan*  
-- Developed, configured, and maintained dynamic websites with robust database management.
-- Worked closely with clients to identify and satisfy system requirements.
-- Created technical specifications and design documents.
-- Automated repetitive tasks, improving efficiency and reducing operational time.
+**Web Developer | Lucky Film Studion**  
+*December 2024 – April 2025 | Vancouver, Canada*  
+- Developed a dynamic web application with WordPress, Docker and PHP, updating through an intuitive dashboard.
+This empowered users to make real-time changes, increasing site adaptability by 50% without technical assistance.
+- Conducted thorough code reviews and provided constructive feedback and performance optimizations, improving
+site speed by 30% and enhancing user experience.
+- Collaborated with a UI/UX designer to design and develop visually appealing user-friendly web applications with
+HTML, SCSS and JavaScript with all code hosted on GitHub version control, which motivated users to engage.
+
+**Web Developer | Kids International Village Japan**  
+*June 2024 – Present | Tokyo, Japan*  
+This organization fosters multicultural exchange and creative learning for children through international programs and
+language. This project focuses on developing a booking management system to meet user satisfaction.
+- Developed a React + Next.js frontend web application, making automation of manual data processes and reducing
+operational inefficiencies by 70%, which improved class scheduling accuracy for over 500 students.
+- Organized database management configurations for consistent data management with an Entity Relationship
+Diagram using Prisma and PostgreSQL, integrating with server-side APIs to ensure seamless scalability and high-performance delivery.
+- Collaborated with a UI/UX designer to enhance user interface design using tech skills such as TypeScript, SCSS, and
+Next.js, ensuring responsive design compatibility, which led to a 70% boost in mobile usage.
 
 ---
 
@@ -52,15 +67,6 @@ With a background in **System Engineering**, I bring six years of experience lea
 ### 🏅 Certifications  
 - **Fundamental Information Technology Engineer Examination**  
   *November 2022*
-
----
-
-### 🤝 Volunteer Experience  
-**Volunteer – Japan**  
-I contribute to a volunteer organization that helps children in Japan interact with foreigners.  
-- Developed scheduling tools for instructors for online classes.  
-- Assisted in outdoor and indoor events supporting both children and foreigners.  
-- Proposed and supported content for indoor learning programs.
 
 ---
 
